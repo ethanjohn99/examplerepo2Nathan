@@ -26,3 +26,4 @@ This project shows how to automate reverse proxy and basic app deployment using 
     
     ``` 
     once you have updated your playbook.yaml/yml
+1 push
